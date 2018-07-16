@@ -1,0 +1,2 @@
+
+ALTER TABLE BigData.Datawiz ADD id int NOT NULL auto_increment primary key;
